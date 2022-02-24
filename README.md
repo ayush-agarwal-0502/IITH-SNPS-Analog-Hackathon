@@ -69,6 +69,6 @@ Y : 1 1 1 0 1
 * https://hackathoniith.in/
 * https://www.synopsys.com/
 * https://www.vlsisystemdesign.com/
-* https://github.com/kunalg123 , Founder, VSD Corp. Pvt. Ltd
+* https://github.com/kunalg123 , Kunal Ghosh sir , Founder, VSD Corp. Pvt. Ltd
 * https://iith.ac.in/
 
