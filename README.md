@@ -16,10 +16,10 @@ This project was held under a 3 week analog hackathon held by IITH , Synopsis an
 
 * Synopsys Primewave:
 
- PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 
 * Synopsys 28nm PDK:
-
+ 
  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
 
 # Schematic :
@@ -31,6 +31,13 @@ This project was held under a 3 week analog hackathon held by IITH , Synopsis an
 
 
 # Waveforms for A , B and Y :
+
+A : 0 0 1 1 0 
+
+B : 0 1 0 1 0 
+
+Y : 1 1 1 0 1 
+
 ![image](https://user-images.githubusercontent.com/86561124/155483636-71d09e6f-d9c9-4168-9db9-39d83d9ad7dc.png)
 
 # References:
