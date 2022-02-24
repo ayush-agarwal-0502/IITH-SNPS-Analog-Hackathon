@@ -1,6 +1,6 @@
 # IITH-SNPS-Analog-Hackathon
 
-The following project was done on by custom compiler tool offered by synopsis via their cloud platform (centos operating system) , and the simulation was run using Primewave .
+The following project was done on by custom compiler tool offered by synopsis via their cloud platform (CentOS operating system) , and the simulation was run using Primewave .
 This project was held under a 3 week analog hackathon held by IITH , Synopsis and Meity . The circuit and the simulation details are self explanatory . The initial survey report has also been added to the repository . The purpose of the project for me was to introduce myself to industry level VLSI softwares , and gain a basic understanding of MOSFET's
 
 # About me and the project :
