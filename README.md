@@ -77,9 +77,11 @@ Y : 1 1 1 0 1
 Few more software pictures I would like to add :
 
 * Custom Compiler :
+
 ![image](https://user-images.githubusercontent.com/86561124/155499595-c636a1c6-a3c5-43ae-8c27-4d967edc2e9b.png)
 
 * Primewave simulation window :
+
 ![image](https://user-images.githubusercontent.com/86561124/155499692-3e490956-c3dd-40cf-8931-61cb730468d2.png)
 
 * Simulation data :
