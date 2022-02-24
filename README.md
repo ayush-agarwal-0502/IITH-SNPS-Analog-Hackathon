@@ -6,7 +6,16 @@
 * Project - NAND gate using MOSFETs (Metal Oxide Semiconductor Field Effect Transistors)  
 
 The following project was done on by custom compiler tool offered by synopsis via their cloud platform (centos operating system) , and the simulation was run using Primewave .
-This project was held under a 3 week analog hackathon held by IITH , Synopsis and Meity . The circuit and the simulation details are self explanatory .
+This project was held under a 3 week analog hackathon held by IITH , Synopsis and Meity . The circuit and the simulation details are self explanatory . The initial survey report has also been added to the repository .
+
+# Circuit Diagram :
+
+![image](https://user-images.githubusercontent.com/86561124/155496663-ed3c52b3-0511-4835-a781-80476b77a45b.png)
+
+# Truth table for NAND gate :
+
+![image](https://user-images.githubusercontent.com/86561124/155496794-57a650f0-16d8-47b3-82ab-60e250410360.png)
+
 
 # Tools used :
 
