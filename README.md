@@ -33,6 +33,14 @@ This project was held under a 3 week analog hackathon held by IITH , Synopsis an
 # Waveforms for A , B and Y :
 ![image](https://user-images.githubusercontent.com/86561124/155483636-71d09e6f-d9c9-4168-9db9-39d83d9ad7dc.png)
 
+# References:
+
+( References read by me during Literature Survey ) 
+* https://www.academia.edu/12642558/Semi_custom_Layout_Design_and_Simulation_of_CMOS_NAND_Gate
+* http://cmosedu.com/jbaker/courses/ee421L/f13/students/wolvert9/Lab%206/Lab6.html
+* http://ece-research.unm.edu/jimp/vlsi/misc/cmostran.htm
+* https://www.youtube.com/watch?v=YAQbPbI-2XI
+
 # Acknowledgements 
 
 * https://hackathoniith.in/
