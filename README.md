@@ -1,12 +1,19 @@
 # IITH-SNPS-Analog-Hackathon
+
+The following project was done on by custom compiler tool offered by synopsis via their cloud platform (centos operating system) , and the simulation was run using Primewave .
+This project was held under a 3 week analog hackathon held by IITH , Synopsis and Meity . The circuit and the simulation details are self explanatory . The initial survey report has also been added to the repository . The purpose of the project for me was to introduce myself to industry level VLSI softwares , and gain a basic understanding of MOSFET's
+
+# About :
 * Name - Ayush Agarwal 
 * College - IIT BHU Varanasi 
 * Branch - Electronics 
 * Year - 2nd year B.Tech 
-* Project - NAND gate using MOSFETs (Metal Oxide Semiconductor Field Effect Transistors)  
+* Project - NAND gate using MOSFET's (Metal Oxide Semiconductor Field Effect Transistors)  
 
-The following project was done on by custom compiler tool offered by synopsis via their cloud platform (centos operating system) , and the simulation was run using Primewave .
-This project was held under a 3 week analog hackathon held by IITH , Synopsis and Meity . The circuit and the simulation details are self explanatory . The initial survey report has also been added to the repository .
+# Introduction :
+
+Complementary Metal-Oxide Semiconductors (CMOS) logic devices are the most common devices used today in the high density, large number transistor count circuits found in  everything from complex microprocessor integrated circuits to signal processing and communication circuits. The CMOS structure is popular because of its inherent lower power 
+requirements, high operating clock speed, and ease of implementation at the transistor level. This project consists of constructing simple NAND gate out of both p and n channel Metal Oxide Semiconductor Field Effect Transistors (MOSFET) . NAND gate is known as " Universal Gate " since all the other logic gates can be expressed in terms of NAND gate , and hence is widely used in the VLSI industry to make circuits .
 
 # Circuit Diagram :
 
